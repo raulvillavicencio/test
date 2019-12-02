@@ -1,0 +1,15 @@
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\bin\Debug\TechFin.Windows.exe.config
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\bin\Debug\TechFin.Windows.exe
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\bin\Debug\TechFin.Windows.pdb
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\TechFin.Windows.csprojAssemblyReference.cache
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\App.g.cs
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\TechFin.Windows_MarkupCompile.cache
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\TechFin.Windows_MarkupCompile.lref
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\MainWindow.baml
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\TechFin.Windows.g.resources
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\TechFin.Windows.Properties.Resources.resources
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\TechFin.Windows.csproj.GenerateResource.cache
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\TechFin.Windows.csproj.CoreCompileInputs.cache
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\TechFin.Windows.exe
+C:\Users\rvillavi\Source\Repos\TechFin.Web\TechFin.Windows\obj\Debug\TechFin.Windows.pdb
